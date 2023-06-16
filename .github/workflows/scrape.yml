@@ -1,10 +1,10 @@
-name: Scrape data #
+name: Scrape data
 
 on:
   push:
-  #workflow_dispatch:
-  #schedule:
-  #  - cron:  '6,26,46 * * * *'
+  workflow_dispatch:
+  schedule:
+    - cron:  '9 * * * *' #1700 SGT
 
 jobs:
   scheduled:
@@ -18,7 +18,7 @@ jobs:
         curl -X GET "https://api.data.gov.sg/v1/environment/air-temperature?date=$today" -H "accept: application/json" | jq . > weather.json
     - name: Commit and push if it changed
       run: |-
-        git config user.name "Automated"
+        git config user.name "Github Actions"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
