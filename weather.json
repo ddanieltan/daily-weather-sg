@@ -60406,12 +60406,1956 @@
       "timestamp": "2025-03-27T20:50:00+08:00",
       "readings": [
         {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
           "station_id": "S117",
           "value": 29.1
         },
         {
+          "station_id": "S50",
+          "value": 27.0887
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
           "station_id": "S43",
           "value": 28.3
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.2
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:51:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29.1
+        },
+        {
+          "station_id": "S50",
+          "value": 27.089
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.3
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:52:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29.1
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1342
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.3
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:53:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29.1
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1508
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:54:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29.2
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1571
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:55:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29.2
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1442
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:56:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1467
+        },
+        {
+          "station_id": "S107",
+          "value": 28.4
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27.1
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:57:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1652
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.1
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:58:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.147
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.1
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T20:59:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1672
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:00:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1465
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:01:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1317
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:02:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1146
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:03:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1506
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.1
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.3
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:04:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1411
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.2
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:05:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1314
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.2
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:06:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.0962
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.2
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:07:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.093
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:08:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.0851
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:09:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.078
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:10:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1407
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:11:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1378
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:12:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1292
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:13:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1145
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:14:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1242
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:15:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1379
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:16:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1656
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27.1
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.8
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:17:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1566
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:18:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1448
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.8
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:19:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.5
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1158
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.8
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:20:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1037
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:21:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.0836
+        },
+        {
+          "station_id": "S107",
+          "value": 28.3
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 27.9
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:22:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 29
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1099
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:23:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1245
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:24:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1572
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:25:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.9
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1423
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 26.9
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.2
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:26:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1278
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 26.9
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:27:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1396
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.2
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:28:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1675
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S116",
+          "value": 28.3
+        },
+        {
+          "station_id": "S104",
+          "value": 26.9
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:29:00+08:00",
+      "readings": [
+        {
+          "station_id": "S109",
+          "value": 27.6
+        },
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.1682
+        },
+        {
+          "station_id": "S107",
+          "value": 28.2
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
+        },
+        {
+          "station_id": "S121",
+          "value": 27
+        },
+        {
+          "station_id": "S106",
+          "value": 26.3
+        },
+        {
+          "station_id": "S111",
+          "value": 27.1
+        },
+        {
+          "station_id": "S115",
+          "value": 28
+        },
+        {
+          "station_id": "S116",
+          "value": 28.4
+        },
+        {
+          "station_id": "S104",
+          "value": 26.8
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-03-27T21:30:00+08:00",
+      "readings": [
+        {
+          "station_id": "S117",
+          "value": 28.8
+        },
+        {
+          "station_id": "S50",
+          "value": 27.2005
+        },
+        {
+          "station_id": "S43",
+          "value": 28.4
         },
         {
           "station_id": "S106",
@@ -60419,7 +62363,7 @@
         },
         {
           "station_id": "S115",
-          "value": 28.2
+          "value": 28
         },
         {
           "station_id": "S116",
