@@ -92624,6 +92624,10 @@
           "value": 28.1
         },
         {
+          "station_id": "S107",
+          "value": 28.8
+        },
+        {
           "station_id": "S43",
           "value": 28.6
         },
@@ -92803,12 +92807,24 @@
       "timestamp": "2026-04-10T23:59:00+08:00",
       "readings": [
         {
+          "station_id": "S109",
+          "value": 28.6
+        },
+        {
           "station_id": "S117",
           "value": 29.1
         },
         {
           "station_id": "S50",
           "value": 28.1
+        },
+        {
+          "station_id": "S107",
+          "value": 28.8
+        },
+        {
+          "station_id": "S43",
+          "value": 28.6
         },
         {
           "station_id": "S44",
